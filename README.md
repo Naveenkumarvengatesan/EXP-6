@@ -13,8 +13,8 @@ DIAGRAM:
 CIRCUIT DIAGRAM
 <img width="1103" height="646" alt="Screenshot 2025-10-11 195345" src="https://github.com/user-attachments/assets/00487b53-e6d8-4fdb-a5a4-0fdf75889de2" />
 
+![EX 6 CIR ](https://github.com/user-attachments/assets/e50fa2e0-93de-4739-b9a9-39b5e0a9781e)
 
-<img width="559" height="471" alt="Screenshot 2025-10-11 195714" src="https://github.com/user-attachments/assets/c0809bf8-bcbf-4bdf-8645-8263535efe39" />
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
@@ -28,23 +28,21 @@ OBSERVATION TABLE
 
 TABULATION:
 
-<img width="539" height="288" alt="Screenshot 2025-10-11 195721" src="https://github.com/user-attachments/assets/85db794f-99e5-4729-aa00-aefbbba50a13" />
+![EX 6 TABLE 1](https://github.com/user-attachments/assets/08d549ad-0ece-4ed5-be56-7b4310a42028)
 
 CALCULATION
 
-<img width="318" height="274" alt="Screenshot 2025-10-11 195750" src="https://github.com/user-attachments/assets/5e5fab00-c45c-432e-8ded-1267630397b2" />
+![EX 6 CAL](https://github.com/user-attachments/assets/4d0d61fa-363e-4882-898a-49dae68286c8)
 
 MODEL GRAPH
 
 POSITIVE DISPLACEMENT
 
-<img width="359" height="317" alt="Screenshot 2025-10-11 195757" src="https://github.com/user-attachments/assets/1d18a068-e808-4336-ba80-6a52b57cacfb" />
+![EX 6 GRAPH 1](https://github.com/user-attachments/assets/6399cc77-37e5-4a8d-914e-8bf0d5606286)
 
 NEGATIVE DISPLACEMENT
 
-<img width="402" height="372" alt="Screenshot 2025-10-11 195805" src="https://github.com/user-attachments/assets/cd1ec8e4-8527-4218-9dc1-f061ffb8abde" />
-
-
+![EX 6 GRAPH 2](https://github.com/user-attachments/assets/8cea68ea-db0d-41a1-80dd-617004320c26)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
